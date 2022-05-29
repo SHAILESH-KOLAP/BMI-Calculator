@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SHAILESH-KOLAP/BMI-Calculator/issues"
   },
-  "homepage": "https://github.com/SHAILESH-KOLAP/BMI-Calculator#readme"
+  "homepage": "https://github.com/SHAILESH-KOLAP/BMI-Calculator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
